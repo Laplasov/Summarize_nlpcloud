@@ -1,8 +1,8 @@
 const fs = require('fs');
 const NLPCloudClient = require('nlpcloud');
-const client = new NLPCloudClient('bart-large-cnn','76415ea76fb9eabb99ad0900ab148d54dd12c334');
+const client = new NLPCloudClient('bart-large-cnn','772ddde61810936cab554750a2bcfb3079f281b6');
 
-fs.readFile('usearch_3.json', 'utf8', (err, data) => {
+fs.readFile('usearch_4.json', 'utf8', (err, data) => {
   if (err) throw err;
   
   const jsonData = JSON.parse(data);
@@ -16,9 +16,9 @@ fs.readFile('usearch_3.json', 'utf8', (err, data) => {
     client.summarization(jsonData[i].body)
       .then(function (response) {
         const responseData = response.data;
-        fs.appendFile(`responses/response_1.json`, JSON.stringify(responseData) + ',\n', (err) => {
+        fs.appendFile(`responses/response_4.json`, JSON.stringify(responseData) + ',\n', (err) => {
           if (err) throw err;
-          console.log(`Response saved to file response_1.json`);
+          console.log(`Response saved to file response_4.json`);
           i++;
           if (i < jsonData.length) {
             setTimeout(makeRequest, 9000);
