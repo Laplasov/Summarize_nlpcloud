@@ -1,0 +1,218 @@
+{
+  "_type": "news",
+  "didUMean": "",
+  "totalCount": 156,
+  "relatedSearch": [],
+  "value": [
+    {
+      "id": "1134754096639725747",
+      "title": "Nvidia may have another monster Titan GPU in the works",
+      "url": "https://www.digitaltrends.com/computing/nvidia-titan-ada-engineering-samples-appear/",
+      "description": "It seems that Nvidia is really preparing a Titan RTX 40-series GPU. The specs of the card just popped up in a shipping manifest.",
+      "body": "Nvidia may have another monster GPU in the works, and the price could be outrageous\nBy\nFebruary 1, 2023 10:08AM\nShare\nToday, yet another sign of an upcoming Nvidia Titan RTX Ada GPU appeared  the cards specs were spotted in a shipping manifest. This suggests that engineering samples of the monstrous GPU might be on their way to various development centers around the globe.\nEverything points to the Nvidia Titan card making a big comeback in this generation, and the development seems to be farther along than it initially seemed to be. Theres a catch, though  how many people will even be able to afford it?\nWccftech\n). The card is not referred to by name, but its fairly easy to guess that it might be the rumored Nvidia RTX Titan for the 40-series generation of cards. This is because the listing shows 48GB of GDDR6 memory combined with the PG137 board name.\nAccording to recent leaks, the PG137 PCB belongs to a beastly card that weve already seen pictures of before. Its a quad-slot GPU colored in a mix of black and gold; a telling sign that were looking at a new Titan card. The specifications also imply just that. The card is said to deliver 18,176 CUDA cores and 48GB of memory clocked at 24Gbps across a 384-bit bus. The bandwidth is estimated to be at 1.15TB/s.\nThe estimated total board power (TBP) is the real killer here  rumors point to 800 watts. This implies that the card will be using not one, but two 16-pin power connectors  presumably the same ones that have occasionally been melting when connected to the RTX 4090. In all likelihood, the GPU wont utilize the full 800W in order to run.\nThe shipping manifest serves to confirm, at the very least, the memory spec. However, previous leaks talked about 48GB of GDDR6X memory, while this source mentions GDDR6. Its possible that Nvidia is using a higher-clocked GDDR6 VRAM instead, but it could also be an error. The cards are clearly intended for testing purposes.\nNvidia might hit new levels of expensive\nMoore's Law Is Dead\nIt certainly seems like Nvidia may be quite far into the development of the Titan RTX Ada GPU, if thats what it will be called when it hits the shelves. The name is one thing, but the real question is  how much will it cost?\nThe current flagship RTX 4090 has a recommended list price of $1,600. In reality, it often sells for more, what with Nvidias board partners adding their own premiums to the base price. Nvidia is also supposedly working on an RTX 4090 Ti, which is said to feature the same core count but half the memory of the Titan GPU. Its not outlandish to assume that the 4090 Ti might cost anywhere between $2,000 to $2,500.\nNow, if the Titan RTX Ada is released with the aforementioned specs, the pricing gets tricky. Why? Because Nvidia already has a very similar GPU up for sale, the RTX 6000 Ada. This is a workstation GPU based on the new Ada Lovelace architecture. It comes equipped with the exact same core count as the rumored Titan, a boost clock of  2.5GHz, and 48GB of GDDR6 memory, with a maximum power draw of 300 watts.\nThe RTX 6000 Ada is very clearly aimed at professionals and not at gamers. It has an MSRP of $6,800 and can often be found at even higher prices. That makes a huge gap between the consumer-level Nvidia GPUs and this workstation model, but the RTX Titan would bridge that gap in terms of specifications. Where would the price land, though?\nIt would make no sense for Nvidia to charge the same kind of pricing for this GPU. While it will still be favored by content creators and other professionals over pure gamers, its a consumer GPU, and no ones going to pay north of $5,000 for it. However, it wont surprise me if  Nvidia slaps a $3,000 price tag on the Titan RTX Ada whenever it launches  after all, it will be the absolute best graphics card on the market. Well just have to wait and see how expensive its going to be if, and when, it appears.\nToday's tech news, curated and condensed for your inbox\nSubscribe",
+      "snippet": "It seems that <b>Nvidia</b> is really preparing a Titan RTX 40-series GPU. The specs of the card just popped up in a shipping manifest.",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-01T18:08:01",
+      "provider": {
+        "name": "digitaltrends",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "https://www.digitaltrends.com/wp-content/uploads/2022/12/GeForce-RTX-logo-is-shown-on-the-side-of-a-graphics-card-.jpg?resize=1200%2C630&amp;p=1",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "digitaltrends",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://www.digitaltrends.com/computing/nvidia-titan-ada-engineering-samples-appear/"
+      }
+    },
+    {
+      "id": "5497359835839459985",
+      "title": "Save $300 on ASUS' ROG Flow Z13 Gaming Laptop Tablet at second-best price of $1,400",
+      "url": "https://9to5toys.com/2023/02/01/asus-rog-flow-z13-gaming-laptop-tablet/",
+      "description": "Amazon is currently offering the 2022 ASUS ROG Flow Z13 i7/16GB/512GB/RTX 3050 Gaming Laptop Tbalet for $1,399.99 shipped. Normally going for $1,700, this solid $300 price drop marks a new second-best price weve tracked to date while coming within $100 of the all-time low. Coming equipped with a previous-generation Intel i7-12700H processor and NVIDIA RTX",
+      "body": "Comments\nAmazon is currently offering the 2022 ASUS ROG Flow Z13 i7/16GB/512GB/RTX 3050 Gaming Laptop Tbalet for $1,399.99 shipped. Normally going for $1,700, this solid $300 price drop marks a new second-best price weve tracked to date while coming within $100 of the all-time low. Coming equipped with a previous-generation Intel i7-12700H processor and NVIDIA RTX 3050 graphics, the ROG Flow Z13 gaming tablet computer will easily drive its 13.4-inch 19201200 120Hz display in most games. You also have support for Dolby Vision HDR content and Adaptive Sync so your games feel fluid. The keyboard will cover the screen while youre traveling and the touchscreen will allow you to draw or take notes. Rounding out the Flow Z13 is Wi-Fi 6E, Bluetooth 5.2, and Thunderbolt 4 support. Head below for more.\nOn a tighter budget? Check out the Acer Nitro 5 i5/8GB/256GB/RTX 3050 Gaming Laptop for $782 instead. Here youll be using the 10th gen Intel i5 processor with RTX 3050 graphics, which is a step down from the 12th Gen with the ASUS option above. The screen is larger at 15.6-inches but is a step down to 1080p 144Hz resolution and refresh rate. The total amount of RAM is downgraded to 8GB instead of 16GB and stepped back to DDR4. Wi-Fi 6 support is also present here.\nBe sure to stop by our PC gaming hub for the latest deals on hardware and peripherals. Want to pick up an additional keyboard to go alongside the keyboard folio included above? Were currently tracking the SteelSeries Apex 7 OLED Mechanical Gaming Keyboard marked down to $88, the new all-time low. This mechanical gaming keyboard will come with brown switches meaning youll get a soft tactile feel while typing and gaming, and it comes in a full-size layout meaning youll get a number pad with some additional editing keys. Each key has individual RGB backlighting that can be controlled through software, and the OLED display that comes integrated into this keyboard will also be controlled by the same software. This screen can display setting information, Discord messages, Spotify songs, and more.\nASUS ROG Flow Z13 i7/16GB/512GB/RTX 3050 Gaming Tablet features:\nWith a design inspired by the 20th-century Space Race, the Flow Z13 gaming laptop tablet has numerous nods to retro-futurism. Powered by a 12th Gen 14-core Intel Core i7-12700H CPU and a GeForce RTX 3050 GPU in this ultraportable tablet form factor, you can pair the best aspects of PC gaming with the freedom to go anywhere.",
+      "snippet": "Coming equipped with a previous-generation Intel i7-12700H processor and <b>NVIDIA</b> RTX. Comments Amazon is currently offering the 2022 ASUS ROG Flow Z13 ...",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-01T18:04:00",
+      "provider": {
+        "name": "9to5toys",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2022/12/2022-ASUS-ROG-Flow-Z13-i7-16GB-512GB-RTX-3050-Gaming-Tablet.jpg?resize=1200%2C628&amp;ssl=1",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "9to5toys",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://9to5toys.com/2023/02/01/asus-rog-flow-z13-gaming-laptop-tablet/"
+      }
+    },
+    {
+      "id": "7418729197057171400",
+      "title": "Samsung Galaxy Book3 Series Launched With 13th-Gen Intel Core CPUs, Nvidia RTX 4000 Series GPU; Here Are the Features, Specs, and Price",
+      "url": "https://in.ign.com/tech/178898/news/samsung-galaxy-book3-series-launched-with-13th-gen-intel-core-cpus-nvidia-rtx-4000-series-gpu-here-a",
+      "description": "Samsung's lineup of laptops receives a major spec boost.",
+      "body": "India.\nSamsung India has just announced its latest lineup of thin-and-light laptops, the Galaxy Book3 Series for the market. The lineup includes the flagship Galaxy Book 3 Ultra, Book3 Pro 360 2-in-1, Book3 Pro, and the Book3. Amongst these different models, the company is offering the Samsung Galaxy Book3 in 15 and 13-inch display variants. Interested buyers can also get the Galaxy Book3 Pro with 14 and 16-inch variants.\nDuring the launch showcase, the company shared the top three aspects that it focused on to improve the Book3 lineup over the Book2 series from 2022. These include the performance of the laptops, thin-and-light portability and the overall Galaxy Ecosystem experience. Let's check everything you need to know about the Samsung Galaxy Book3 Series here including the specifications, features and price in India.\nThe Galaxy Book 3 Ultra will feature upto the latest 13th-Gen Intel Core i9 H-Series CPUs with 45W TDP. In addition this, the laptop also comes with the Nvidia GeForce RTX 4070 GPU with 60W TDP for light gaming and content creation. In terms of features, Samsung has added a 120Hz refresh rate-equipped 16-inch 3K-resolution Dynamic AMOLED 2X display with 16:10 aspect ratio. The company has also added a FHD-resolution webcam to the Ultra model for better video calling experience.\nNow, let's talk about the Galaxy Ecosystem experience that Samsung has added to the Galaxy Book3 Series. The company will add multiple new softwares to handle different features from the Ecosystem. These include the Samsung Multi Control, Samsung Galaxy Book Experience and the Samsung Galaxy Book Smart Switch. Existing softwares that will get additional features include the Microsoft Phone Link for instant Hotspot and recent websites sharing. Book3 Series users can also use Samsung Pass to enter passwords along with the fingerprint-based authentication.\nHere's everything you need to know about some of the specifications of all the Samsung Galaxy Book3 series models.\nThunderbolt 4 (2), USB Type-A (1), HDMI 2.0, microSD, Headphone/Mic.\nThunderbolt 4 (2), USB Type-A (1), HDMI 1.4, microSD, Headphone/Mic.\nThunderbolt 4 (2), USB Type-A (1), HDMI 1.4, microSD, Headphone/Mic, nano SIM slot (Optional).\nWhen it comes to the availability, the Samsung Galaxy Book3 Pro and the Samsung Galaxy Book3 Pro 360 will be the first to launch in select markets on February 17. The Samsung Galaxy Book3 Ultra will arrive a bit later on February 22. We'll soon update the piece with pricing details for the Galaxy Book3 series.",
+      "snippet": "In addition this, the laptop also comes with the <b>Nvidia</b> GeForce RTX 4070 GPU with 60W TDP for light gaming and content creation. In terms of ...",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-01T18:01:17",
+      "provider": {
+        "name": "ign",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "https://sm.ign.com/t/ign_in/screenshot/default/galaxy-book3-series-image-01-hi-1-02_y88h.1200.jpg",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "ign",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://in.ign.com/tech/178898/news/samsung-galaxy-book3-series-launched-with-13th-gen-intel-core-cpus-nvidia-rtx-4000-series-gpu-here-a"
+      }
+    },
+    {
+      "id": "304984604469170730",
+      "title": "Samsung introduces the Galaxy Book 3 Ultra alongside a redesigned Pro series",
+      "url": "https://www.xda-developers.com/samsung-galaxy-book-3-pro-ultra-launch/",
+      "description": "Samsung's new laptop lineup is redesigned with a full aluminum chassis and super-sharp AMOLED displays, plus a model with Nvidia graphics.",
+      "body": "Samsung introduces the Galaxy Book 3 Ultra alongside a redesigned Pro series\nBy\nPublished 1 hour ago\nSamsung's new laptop lineup is redesigned with a full aluminum chassis and super-sharp AMOLED displays, plus a model with Nvidia graphics.\nReaders like you help support XDA Developers. When you make a purchase using links on our site, we may earn an affiliate commission.\nRead More.\nThe first Samsung Galaxy Unpacked of 2023 is finally here, and Samsung is making waves with the new Galaxy Book 3 series of laptops. This year, in addition to the Samsung Galaxy Book 3 Pro and Book 3 Pro 360, which have been radically redesigned, we're also getting the brand-new Galaxy Book 3 Ultra, Samsung's most powerful laptop yet. All three laptops are up for pre-order today.\nSamsung Galaxy Book 3 Ultra\nWhile all three laptops have a lot new to them, the star of the show this year is definitely the brand-new Samsung Galaxy Book 3 Ultra. This is Samsung's most powerful laptop yet, and that starts with the 13th-generation Intel Core H-series processors inside. You can go up to a Core i9 processor, and that will get you 14 cores, 20 threads, and boost speeds up to 5.4GHz.\nYou can also add up to an Nvidia GeForce RTX 4070 Laptop GPU (with an option for an RTX 4050 also available), making this a viable laptop for some light gaming and more importantly, creative work. All of this is paired with up to 32GB of RAM and a 1TB SSD, with one free slot available inside the laptop if you need more storage.\nAnother highlight of this laptop is the 16-inch display. It comes in a 16:10 aspect ratio that's ideal for productivity, and it's a stunning Dynamic AMOLED 2X panel with up to 400 nits of brightness. It's much sharper than past Samsung laptops, too, with 2880 x 1800 resolution, and it has a smooth 120Hz refresh rate to make motion and animations look that much smoother.\nThe laptop also comes with a 1080p webcam  though there's no facial recognition  and the selection of ports is solid, including Thunderbolt 4, USB Type-A, HDMI, and a headphone jack. This also applies to the rest of Samsung's lineup this year. The Galaxy Book 3 Ultra comes in at 16.5mm thick, which is quite good for a laptop with discrete graphics, and it weighs 3.9 pounds. Unlike past Galaxy Book models, it uses an aluminum chassis, which feels more premium but is also significantly heavier than magnesium.\nThe Samsung Galaxy Book 3 Ultra is available for pre-order starting today, with prices starting at $2,399.\nSamsung Galaxy Book 3 Pro and Pro 360\nIf you want something a bit more mainstream, the Samsung Galaxy Book 3 Pro series is also a big step up from previous models. Of course, it now has 13th-generation Intel Core P-series processors, as you'd expect, along with up to 32GB of RAM and a 1TB SSD. But everything else has been upgraded, too.\nFor starters, the Galaxy Book 3 Pro comes in new sizes: a 14-inch model and a 16-inch version, both with a 16:10 aspect ratio this time around. The Galaxy Book 3 Pro 360 only comes in a 16-inch version, which has the same format as the clamshell variant, but now with support for touch and the S Pen, plus a 360-degree hinge so you can use it as a tablet.\nIn terms of specs, though, these displays are all the same as the Ultra model: Dynamic AMOLED 2X panels with 2880 x 1800 resolution, plus a 120Hz refresh rate. That's the new standard, and it's a huge step up from the Galaxy Book 2 Pro series, which still used Full HD 60Hz panels.\nSimilarly, the design of these laptops has also changed. Instead of aiming for an extremely light chassis, Samsung has now gone with a more premium feel with a solid aluminum chassis. That does make these new laptops noticeably heavier, at 2.58 pounds for the 14-inch Galaxy Book 3 Pro and 3.4 pounds for the 16-inch model (or 3.7 pounds for the Pro 360). They're still fairly light for their size, however, and they're also incredibly thin, measuring 11.3mm thick in the case of the 14-inch model, 12.5mm for the 16-inch clamshell, and 12.8mm for the convertible version.\nSamsung is also bringing back a 5G option for the Galaxy Book 3 Pro 360, after last year's models didn't add a follow-up to the 2021 Galaxy Book Pro 360 5G.\nThe Samsung Galaxy Book 3 Pro lineup starts at $1,449, but that price will vary a lot depending on the size and configuration you choose. Pre-orders are available now, and the laptops will ship on February 17.\nSamsung Galaxy ecosystem features\nIn addition to the new laptops themselves, Samsung is also continuing to improve the integration between its laptops and its phones. In addition to the Link to Windows functionality and all the Samsung apps available on its Galaxy Book laptops, the company has improved support for Samsung Multi Control. This feature lets you control your Galaxy tablet or phone using the keyboard and touchpad on your Galaxy Book laptop, and support for phones specifically is new this year. Previously, you could only interact with Samsung tablets this way. You can also still use a Galaxy tablet as a second screen for your laptop.\nAdditionally, you can now make it so that Expert RAW photos from your phone are automatically transferred to your laptop, so you can quickly start editing them in Adobe Lightroom. Other benefits of the Galaxy Book 3 series include support for Samsung Pass and Single Sign On, allowing you to sign in to all your Samsung apps while entering your Samsung account password just once.\nSamsung Galaxy Book 3 Pro\nThe Samsung Galaxy Book 3 Pro has been redesigned with a premium aluminum chassis and 14-inch or 16-inch display options.\n$1450 at Samsung\nSamsung Galaxy Book 3 Pro 360\nSamsung has also redesigned the Galaxy Book 3 Pro 360, and it's now available with a stunning 16-inch display,\n$1900 at Samsung\nSamsung Galaxy Book 3 Ultra\nThe brand-new Galaxy Book 3 Ultra is the most powerful of the lineup, featuring H-series Intel processors and Nvidia graphics.\n$2400 at Samsung",
+      "snippet": "... AMOLED displays, plus a model with <b>Nvidia</b> graphics. Samsung introduces the Galaxy Book 3 ... AMOLED displays, plus a model with <b>Nvidia</b> graphics.",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-01T18:01:16",
+      "provider": {
+        "name": "xda-developers",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/01/samsung-galaxy-book-3-ultra-2.jpg",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "xda-developers",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://www.xda-developers.com/samsung-galaxy-book-3-pro-ultra-launch/"
+      }
+    },
+    {
+      "id": "7830723345140277751",
+      "title": "Samsung Galaxy Book 3 Ultra with RTX 4070 GPU announced",
+      "url": "https://www.laptopmag.com/news/samsung-unveils-galaxy-book-3-ultra-with-13th-gen-intel-cpu-and-rtx-40-series-gpu",
+      "description": "Samsung's new premium laptop, the Galaxy Book 3 Ultra packs 13th Gen Intel Core and Nvidia RTX 40 series GPU power",
+      "body": "Samsung welcomes the new Galaxy Book 3 Ultra to its family of laptops\n(opens in new tab)\n(opens in new tab)\n(Image credit: Laptop Mag)\nThe Samsung Galaxy Book 3 Ultra was announced today at Samsung's Unpacked product launch event. For a limited time, you can use your Galaxy S23 credit at\nSamsung.com\n(opens in new tab)\ntoward the purchase of a new Galaxy Book 3 Series notebook. Plus get an additional 10% off and free memory upgrade and an extra $50 bonus Samsung Credit. \nIt improves upon its predecessor with an upgraded processor, graphics card, and display. It packs a 13th Gen Intel Core i7 CPU (up to i9),16GB of RAM (up to 32GB) and Nvidia Geforce RTX 4050 GPU (up to RTX 4070).\nFor the first time in the series, the Galaxy Book 3 Ultra sports a Samsungs Dynamic AMOLED 2X display as seen on the Galaxy S-Series phones. The laptop's stunning 16-inch, 3K (2880 x 1800) display delivers 400 nits of brightness for visibility outdoors. The panel's 120Hz refresh rate delivers a smooth viewing experience whether you're editing high-res videos or photos, streaming content or playing AAA games.\n(Image credit: Samsung)\nThe Galaxy Book 3 Ultra ensures seamless phone-to-PC connectivity with Link to Windows / Microsoft Phone Link and all new on-the-go productivity features. Recent Websites, for example, lets you pick up right where you left off from your phone to PC. One-click Instant Hotspot makes it easy to connect to a wireless hotspot when you're on the move. Expect enhanced video calls and audio with the Galaxy Book 3 Ultra's 1080p webcam, studio-quality dual mic, and AKG quad-speakers with Dolby Atmos.\nFor speedy file transfers and storage, you can opt for up to 512GB or 1TB SSD. Connectivity-wise, the Galaxy Book 3 has two Thunderbolt 4 ports, a USB Type-A port, HDMI port, microSD slot and headphone mic combo.\nSamsung's best premium PC yet, the Galaxy Book 3 is built for high-performance creating and gaming. It will be available for purchase on Feb. 17 at Samsung.com and select Samsung retailers.\nToday's best Samsung Galaxy Book 2 Pro 5G deals\n(opens in new tab)",
+      "snippet": "... premium laptop, the Galaxy Book 3 Ultra packs 13th Gen Intel Core and <b>Nvidia</b> RTX 40 series GPU power. Samsung welcomes the new Galaxy Book 3 Ultra to ...",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-01T18:01:00",
+      "provider": {
+        "name": "laptopmag",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/GrQTdhzQAvPhtQzcTUe4Je.jpg",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "laptopmag",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://www.laptopmag.com/news/samsung-unveils-galaxy-book-3-ultra-with-13th-gen-intel-cpu-and-rtx-40-series-gpu"
+      }
+    },
+    {
+      "id": "7820675782755320797",
+      "title": "Samsung Galaxy Book 3 Ultra Takes On MacBook Pro With Intel Core i9 Nvidia RTX 4070",
+      "url": "https://www.cnet.com/tech/computing/samsung-galaxy-book-3-ultra-takes-on-macbook-pro-with-intel-core-i9-nvidia-rtx-4070/",
+      "description": "With a 16-inch AMOLED display, lots of ports and seamless connectivity with other Galaxy devices, the Ultra redefines premium laptops for Samsung.",
+      "body": "Samsung's Galaxy Book Pro laptops are leveling up. At Samsung's Unpacked event Wednesday, the electronics giant announced the Galaxy Book 3 Ultra laptop alongside its latest flagship Galaxy S23 phones.Like Samsung's top Galaxy Ultra phonesand Galaxy Tab S8 Ultra tablet, the Ultra laptop will have the best performance, a ton of features and a killer display. But like the other Ultra devices, the Ultra laptop might be more computer than you need. Samsung also has the Galaxy Book 3 Pro and Pro 360, which are a notch below the Ultra in performance, but have a lot of features in common, along with their own added extras.Read more:Samsung Unpacked Live UpdatesThe Galaxy Book 3 Ultra is the star, though, and thankfully it fixes two things I didn't like about the otherwise excellent Galaxy Book 2 Pro models. One issue was their displays. While they had great-looking AMOLED panels, they were 16:9, 1080p widescreens; most premium laptops use higher-resolution 16:10 panels that give you more vertical space. The 16-inch Galaxy Book 3 Ultra makes the jump to 16:10. It's still an AMOLED panel, too, so you're going to get amazing color and contrast. Plus it has a 120Hz refresh rate for smoother-looking video; its resolution is 2,880x1,800 pixels.The second issue I had with the Book 2 Pro was that Samsung didn't offer any options for discrete graphics and frankly, if you're going to call something \"Pro\" you should offer something stronger than integrated graphics. That doesn't change with the Book 3 Pro models, but the Ultra will have either an Nvidia GeForce RTX 4050 or 4070 graphics chip and they'll be paired with a 13th-gen Intel Core i7 or i9 processor, respectively, giving the Ultra some pro-level laptop performance.Those components drive the price up considerably, with the Core i7 and RTX 4050 configuration starting at $2,400 and the Core i9 and RTX 4070 pairing going for $3,000. (Pricing and availability weren't announced for the UK or Australia, but the entry price converts to 1,950 and AU$3,400.) You get a lot of other great features for those prices like a 1080p webcam, a quad-speaker audio system, a fingerprint reader on the power button and a larger 76-watt-hour battery. The Ultra also has more ports than the Galaxy Book 2 Pro, with a USB-A port and HDMI 2.0 output joining its two Thunderbolt USB-C ports, microSD card slot and headphone jack.The good news is almost all of these things trickle down to the Pro models, with the big exceptions being the Core i9 processor and the discrete graphics. The nice thing about that is the 16-inch Galaxy Book 3 Pro laptop is 4 millimeters thinner and it's about a half pound lighter than the 16.5-mm thick, 4-pound (1.8-kilogram) Ultra. The Galaxy Book 3 Pro will also be available in a 14-inch size that's just 2.6 pounds (1.2 kilograms).There's also a 16-inch Galaxy Book 3 Pro 360 two-in-one, which is large for a two-in-one, but since it comes with one of Samsung's excellent S Pens, you'll have a lot of room to draw or take notes, plus it'll make a nice digital whiteboard for meetings. And again, all of the features like the high-res webcam, port assortment and quad speakers on the Ultra are here, too. It's also the only model to come with optional 5G wireless.Also, just like earlier Galaxy Books, the new Ultra and Pro laptops are made to work with other Galaxy devices. Things like sending files back and forth between your phone and laptop are easy. You can, for instance, start working on a file on your Galaxy phone and finish up on the Galaxy Book. Or you can use a Galaxy Tab S8 as a wireless external display to extend the laptop's screen. Your Galaxy Buds can automatically switch between devices as well.This extra layer of interoperability is something Apple does well with its iPhones, iPads and MacBooks, and Samsung is quickly catching up with help from Intel and Microsoft. These laptops have enterprise-level security, too, since they meetMicrosoft's secured-core PC requirements.There is one thing that Samsung kept the same as the previous generations and that's the overall look. They're nice and clean, if a bit unexciting, especially compared to Samsung's phones, which come in several colors -- these come in graphite or beige. Build quality is improved, though. They're sturdier, stiffer and stronger, which is certainly a plus even if they're a bit heavier because of it.The Samsung Galaxy Book 3 Ultra and Pro and Pro 360 laptops are available to preorder now through Samsung's site and the Pro models are expected to start shipping on Feb. 17.",
+      "snippet": "With a 16-inch AMOLED display, lots of ports and seamless connectivity with other Galaxy devices, the Ultra redefines premium laptops for Samsung.\nthese come in graphite or beige.",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-01T18:00:25",
+      "provider": {
+        "name": "cnet",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "https://www.cnet.com/a/img/resize/178167207943195d7ea61be775dedeb713f81dbf/hub/2023/01/31/e3d900cf-3d6b-4a07-b073-a4aa53c45416/samsung-galaxy-book-3-ultra-image-02-hi.jpg?auto=webp&amp;fit=crop&amp;height=630&amp;width=1200",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "cnet",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://www.cnet.com/tech/computing/samsung-galaxy-book-3-ultra-takes-on-macbook-pro-with-intel-core-i9-nvidia-rtx-4070/"
+      }
+    }
+  ]
+}

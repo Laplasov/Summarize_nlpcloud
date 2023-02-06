@@ -1,0 +1,78 @@
+{
+  "_type": "news",
+  "didUMean": "",
+  "totalCount": 157,
+  "relatedSearch": [],
+  "value": [
+    {
+      "id": "8192580788646018425",
+      "title": "Austria expels 4 Russian diplomats based in Vienna",
+      "url": "https://kstp.com/kstp-news/business-news/austria-expels-4-russian-diplomats-based-in-vienna/",
+      "description": "The Austrian government says it has ordered four diplomats based in Vienna, including two at Moscows mission to United Nations agencies in the city, to leave the country. The Foreign Ministry said in a brief statement on Thursday that two diplomats the Russian Embassy had engaged in acts incompatible with their diplomatic status and two at the permanent mission to the U.N. in Vienna committed acts incompatible with the Headquarters Agreement. It didnt elaborate. The diplomats were given a week to leave Austria. Western European nations and Russia have expelled each others diplomats on several occasions since Moscows invasion of Ukraine started nearly a year ago.",
+      "body": "20001",
+      "snippet": "... European nations and Russia have expelled each others diplomats on several occasions since Moscows invasion of <b>Ukraine</b> started nearly a year ago.",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "2023-02-02T08:14:21",
+      "provider": {
+        "name": "kstp",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "kstp",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://kstp.com/kstp-news/business-news/austria-expels-4-russian-diplomats-based-in-vienna/"
+      }
+    },
+    {
+      "id": "2655519939472746890",
+      "title": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Ukraine",
+      "description": "Ukraine (; ), sometimes called the Ukraine, is a sovereign state in Eastern Europe, bordered by Russia to the east and northeast; Belarus to the northwest; Poland, Hungary, and Slovakia to the west; Romania and Moldova to the southwest; and the Black Sea and Sea of Azov to the south and southeast, respectively. Ukraine is currently in a territorial dispute with Russia over the Crimean Peninsula, which Russia annexed in 2014 and now administers as two federal subjects of the Russian federation, but which Ukraine and most of the international community continue to recognise as Ukrainian. Including Crimea, Ukraine has an area of , making it the largest country entirely within Europe and the 46th largest country in the world. Excluding Crimea, Ukraine has a population of about 42.5 million, making it the 32nd most populous country in the world.",
+      "body": "20002",
+      "snippet": "), sometimes called the <b>Ukraine</b>, is a sovereign state in Eastern Europe, bordered by Russia to the east and northeast. Belarus to the northwest.",
+      "keywords": "",
+      "language": "en",
+      "isSafe": true,
+      "datePublished": "0001-01-01T00:00:00",
+      "provider": {
+        "name": "wikipedia",
+        "favIcon": "",
+        "favIconBase64Encoding": ""
+      },
+      "image": {
+        "url": "",
+        "height": 0,
+        "width": 0,
+        "thumbnail": "",
+        "thumbnailHeight": 0,
+        "thumbnailWidth": 0,
+        "base64Encoding": "",
+        "name": null,
+        "title": null,
+        "provider": {
+          "name": "wikipedia",
+          "favIcon": "",
+          "favIconBase64Encoding": ""
+        },
+        "imageWebSearchUrl": null,
+        "webpageUrl": "https://en.wikipedia.org/wiki/Ukraine"
+      }
+    }
+  ]
+}
